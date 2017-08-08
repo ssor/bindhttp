@@ -1,0 +1,2 @@
+# bindhttp
+gin bind httprequest
